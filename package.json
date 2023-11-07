@@ -1,0 +1,12 @@
+{
+    "name": "tek-simple-math",
+    "version": "1.0.0",
+    "description": "A simple math package for basic arithmetic operations",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Holovach Veronika",
+    "license": "MIT"
+  }
+  
